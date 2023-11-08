@@ -1,6 +1,6 @@
-<h1>\[🪻🌷🌼🌻🌺🌹🏵️🪷💮🌸💐\] 金属花园 \[💐🌸💮🪷🏵️🌹🌺🌻🌼🌷🪻\]</h1>
+<h1>[🪻🌷🌼🌻🌺🌹🏵️🪷💮🌸💐] 金属花园 [💐🌸💮🪷🏵️🌹🌺🌻🌼🌷🪻]</h1>
 
-### 你好，我是金属行者
+<h3>你好，我是金属行者</h3>
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/adinlead">
         <img src="https://img.shields.io/github/stars/adinlead.svg?logo=star&label=Total%20Stars&color=success" />
