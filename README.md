@@ -1,4 +1,4 @@
-# `🪻🌷🌼🌻🌺🌹🏵️🪷💮🌸💐`金属花园`💐🌸💮🪷🏵️🌹🌺🌻🌼🌷🪻`
+# [🪻🌷🌼🌻🌺🌹🏵️🪷💮🌸💐]金属花园[💐🌸💮🪷🏵️🌹🌺🌻🌼🌷🪻]
 ### 你好，我是金属行者
 <p align="center">
     <a title="Github Total Stars" target="_blank" href="https://github.com/adinlead">
@@ -91,6 +91,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" height="48" alt="Chrome" title="Other: Chrome"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="48" height="48" alt="Gimp" title="Other: Gimp"/>
 </div>
+
+------
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=adinlead&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="adinlead" />
+</p>
 
 ------
 
