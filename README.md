@@ -18,36 +18,36 @@
 ### 语言与框架
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Language: Java"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" title="Language: Bash"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Language: Python"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript" title="Language: JavaScript"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown" title="Language: Markdown"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" title="Language: Go"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="48" height="48" alt="Html5" title="Language: Html5"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="48" height="48" alt="Lua" title="Language: Lua"/>
 </div>
 
 <div align="center">
     <!--Java -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" title="Framework: Spring"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <!--JavaScript-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="Jquery" title="Framework: Jquery"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Nodejs" title="Framework: Nodejs"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="48" height="48" alt="Electron" title="Framework: Electron"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <!--Python-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" title="Framework: Flask"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <!--HTML-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="BootStrap" title="Framework: BootStrap"/>
 </div>
@@ -56,76 +56,76 @@
 <div align="center">
     <!--Runtime-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Runtime: Linux"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" title="Runtime: Debian"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" title="Runtime: Ubuntu"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="48" height="48" alt="Redhat" title="Runtime: Redhat"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="48" height="48" alt="Centos" title="Runtime: Centos"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android" title="Runtime: Android"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="Apple" title="Runtime: Apple"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows" title="Runtime: Windows"/>
 
 </div>
 <div align="center">
     <!--Middleware-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" width="48" height="48" alt="SSH" title="Middleware: SSH"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Middleware: Docker"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" title="Middleware: Nginx"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="48" height="48" alt="Tomcat" title="Middleware: Tomcat"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" title="Middleware: Apache"/>
 
 </div>
 <div align="center">
     <!--Database-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title=" Database: MySQL"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" title=" Database: Redis"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title=" Database: MongoDB"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" title=" Database: SQLite"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" title=" Database: Oracle"/>
 </div>
 <div align="center">
     <!--CodeEditor-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="48" height="48" alt="JetBrains" title="CodeEditor: JetBrains"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ" title="CodeEditor: IntelliJ"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm" title="CodeEditor: PyCharm"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VsCode" title="CodeEditor: VsCode"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="48" height="48" alt="Vim" title="CodeEditor: Vim"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="48" height="48" alt="Atom" title="CodeEditor: Atom"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="AndroidStudio" title="CodeEditor: AndroidStudio"/>
 </div>
 <div align="center">
     <!--Versioning-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Versioning: Git"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="Github" title="Versioning: Github"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitter/gitter-plain.svg" width="48" height="48" alt="Gitter" title="Versioning: Gitter"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" width="48" height="48" alt="Subversion" title="Versioning: Subversion"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <!--Other-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" height="48" alt="Chrome" title="Other: Chrome"/>
-    <span>&emsp;&emsp;</span>
+    <span>&emsp;</span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="48" height="48" alt="Gimp" title="Other: Gimp"/>
 </div>
 
