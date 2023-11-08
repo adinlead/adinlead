@@ -92,7 +92,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="48" height="48" alt="Gimp" title="Other: Gimp"/>
 </div>
 
-### 
+------
+
+<div align="center">
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=adinlead&count_private=true&show_icons=true" />
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adinlead&layout=compact&langs_count=8" />
+    <span>&emsp;&emsp;</span>
+</div>
+
 <!--
 **adinlead/adinlead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
